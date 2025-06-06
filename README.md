@@ -1,2 +1,1 @@
-# Data-Structures-LAB-1
-Singly linked list implementation
+o arquivo lablse.pdf apresenta o enunciado para a implementação da lista simplesmente encadeada.
